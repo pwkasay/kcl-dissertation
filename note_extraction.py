@@ -200,4 +200,4 @@ def getnotes(url):
 
 #The script requests the URL inside of the terminal for ease of use
 getnotes(raw_input("Please type the full URL for the post you'd like to investigate: "))
-#Note: when you call the function, you must feed it a full permalink URL
+#Note: when you call the function, you must feed it a full permalink URL from Tumblr
